@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "안녕하세요.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,8 +82,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "history",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
