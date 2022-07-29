@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "al test.md",
+            "file": "fisrt note.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "al test.md",
+                "file": "fisrt note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "al test.md",
+                "file": "fisrt note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "al test.md"
+                "file": "fisrt note.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   "active": "9c39a1aa1b138f92",
   "lastOpenFiles": [
     "asdf.md",
+    "al test.md",
     "fisrt note.md"
   ]
 }
