@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "안녕하세요.md",
+            "file": "asdf.md",
             "mode": "source",
             "source": false
           }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "asdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "asdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "안녕하세요.md"
+                "file": "asdf.md"
               }
             }
           }
@@ -131,10 +130,10 @@
   },
   "active": "9c39a1aa1b138f92",
   "lastOpenFiles": [
-    "fisrt note.md",
-    "asdf.md",
     "al test.md",
+    "asdf.md",
+    "2022-07-29.md",
     "안녕하세요.md",
-    "2022-07-29.md"
+    "fisrt note.md"
   ]
 }
