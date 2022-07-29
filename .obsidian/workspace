@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "안녕하세요.md",
+            "file": "al test.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "al test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "안녕하세요.md",
+                "file": "al test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "안녕하세요.md"
+                "file": "al test.md"
               }
             }
           }
@@ -129,9 +129,9 @@
   },
   "active": "9c39a1aa1b138f92",
   "lastOpenFiles": [
-    "fisrt note.md",
-    "asdf.md",
+    "안녕하세요.md",
     "al test.md",
-    "안녕하세요.md"
+    "fisrt note.md",
+    "asdf.md"
   ]
 }
