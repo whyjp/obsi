@@ -7,12 +7,8 @@
         "id": "9c39a1aa1b138f92",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "fisrt note.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fisrt note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fisrt note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "fisrt note.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,10 +121,10 @@
   },
   "active": "9c39a1aa1b138f92",
   "lastOpenFiles": [
-    "al test.md",
-    "2022-07-29.md",
-    "제목 수정.md",
     "안녕하세요.md",
-    "fisrt note.md"
+    "제목 수정.md",
+    "al test.md",
+    "fisrt note.md",
+    "2022-07-29.md"
   ]
 }
